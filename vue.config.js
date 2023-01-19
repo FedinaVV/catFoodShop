@@ -4,5 +4,5 @@ module.exports = defineConfig({
 })
 
 module.exports = {
-  publicPath: '/cat-food-shop/'
+  publicPath: '/catFoodShop/'
 }
